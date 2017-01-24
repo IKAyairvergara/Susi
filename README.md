@@ -1,2 +1,0 @@
-# Susi
-Proshekto de CV.
